@@ -4,12 +4,20 @@
 
 - Frontend developer since 2014
   
-### Porfolio
+## Porfolio
 
-#### chat
-- ts
-- websocket
-#### game
+#### 🔴 [chat](https://github.com/gineff/flib.chat)
+##### Описание
+Проект представляет собой веб-приложение для обмена сообщениями в режиме реального времени. Разработан с использованием чистого TypeScript без использования сторонних библиотек, на основе самописного реактивного компонента, похожего на React. Включает такие самописные элементы как компоненты, шаблонизатор, жизненные циклы, store похожий на redux, хуки, роутинг, события, rest api, XHR-запросы
+##### Ссылки
+[Скриншот](./chat.png)  
+[Демо](https://vermillion-moxie-e8c8f0.netlify.app)  
+
+##### Цель
+учебный проект Яндекс Практикум
+##### Технологии
+ts, websocket
+#### 🔴 game
 - ts
 - canvas
 #### mongodb app
@@ -29,17 +37,3 @@
 ### LisaAlert
 - ts
 
-<!--
-**gineff/gineff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
