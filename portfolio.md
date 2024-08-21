@@ -6,6 +6,11 @@
   
 **Porfolio**
 
+## 🔴 [сайт ЛизаАлерт](https://github.com/gineff/lizaalert_frontend) 
+**Описание** Платформа для обучения добровольцев "ЛизаАлерт"  
+**Ссылки** [Скриншот](./https://github.com/user-attachments/assets/f4d43a74-5757-4bf6-912b-49b62968fe28)  [Демо](https://la-testing.ru/)  
+**Технологии** React, TypeScript, Redux Toolkit, React router, Axios, Formik & Yup, SCSS module, Docker & Nginx  
+
 ## 🔴 [chat](https://github.com/gineff/flib.chat)
 
 **Описание** Веб-приложение для обмена сообщениями в режиме реального времени, без использования сторонних библиотек, на основе самописного реактивного компонента. Включает такие самописные элементы как компоненты, шаблонизатор, жизненные циклы, store похожий на redux, хуки, роутинг, события, rest api, XHR-запросы  
@@ -24,7 +29,7 @@ ExpressJS, SSR (custom), Nginx, PostgreSQL, Sequelize, NodeJS, Lerna, Vite, Left
 
 ## 🔴 [Popular books  (React-Native, Expo)](https://github.com/gineff/flib-rn-app)
 **Описание** Приложение для отображения популярных и новых книг на Flibusta  
-**Ссылки**  [Скриншот 1](https://github.com/user-attachments/assets/fb7233ac-8051-4e07-8547-585f522ed1fa) [Скриншот 2]([./rogue.png](https://github.com/user-attachments/assets/5418f0a6-4b40-49a3-ae69-d532ff915156)) [apk](https://disk.yandex.ru/d/sLxYlDGQcsL4XQ)  
+**Ссылки**  [Скриншот 1](https://github.com/user-attachments/assets/fb7233ac-8051-4e07-8547-585f522ed1fa) [Скриншот 2](https://github.com/user-attachments/assets/5418f0a6-4b40-49a3-ae69-d532ff915156) [apk](https://disk.yandex.ru/d/sLxYlDGQcsL4XQ)  
 **Технологии** js, expo  
 
 #### russia it companies
