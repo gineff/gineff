@@ -3,13 +3,18 @@
 ### About me
 
 - Frontend developer since 2014
-  
+
 **Porfolio**
 
 ## 🔴 [Cайт ЛизаАлерт](https://github.com/gineff/lizaalert_frontend) 
 **Описание** Платформа для обучения добровольцев "ЛизаАлерт"  
 **Ссылки** [Скриншот](https://github.com/user-attachments/assets/f4d43a74-5757-4bf6-912b-49b62968fe28)  [Демо](https://la-testing.ru/)  
 **Технологии** React, TypeScript, Redux Toolkit, React router, Axios, Formik & Yup, SCSS module, Docker & Nginx  
+
+## 🔴 [Cайт SoftInterMob](https://github.com/gineff/soft-inter-mob) 
+**Описание** Сайт it-компании Softintermob  
+**Ссылки** [Скриншот](https://github.com/user-attachments/assets/90e600be-c5a0-4710-ba20-d25b62ecebbf)  [Демо](https://soft-inter-mob.vercel.app/)  
+**Технологии** React, TypeScript, React router, MUI, Formik & Yup, SCSS, Lottie
 
 ## 🔴 [Cайт designcollab.pro](https://github.com/gineff/a-platform-for-designers-frontend) 
 **Описание** Платформа предназначена для дизайнеров, предоставляя им место для демонстрации своих работ, общения с помощью чата, получения обратной связи от сообщества и поиска менторов для профессионального роста. Studio-Yandex-Practicum  
@@ -18,8 +23,8 @@
 
 ## 🔴 [Cайт octopus-it.ru](https://github.com/gineff/octopusIT) 
 **Описание** Платформа всех ИТ компаний России с адресами, телефонами и офисам. Поиск ИТ компаний: возможность найти компанию, специализирующуюся в нужной области. Cписок ИТ компаний с информацией о их специализации, рейтинге и отзывах клиентов. Studio-Yandex-Practicum  
-**Ссылки** [Скриншот](https://github.com/user-attachments/assets/0bbb4472-3afb-47f1-a2f2-e848531d4451)  [Демо](https://dev.octopus-it.ru/)  
-**Технологии** React, React hooks, SCSS, Storybook, Formik & Yup, REST API
+**Ссылки** [Скриншот](https://github.com/user-attachments/assets/41e80dc1-59da-4f56-8307-b497bb5defb1)  [Демо](https://dev.octopus-it.ru/)  
+**Технологии** React, React hooks, SCSS, Storybook, Formik & Yup, REST API, OAuth 2.0
 
 ## 🔴 [Приложение chat](https://github.com/gineff/flib.chat)
 
