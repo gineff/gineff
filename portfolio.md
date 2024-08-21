@@ -14,7 +14,7 @@
 
 ## 🔴 [rogue game](https://github.com/gineff/rogue-game)  
 **Описание** Браузерная игра "рогалик"  
-**Ссылки**  [Скриншот](./rogue.png) [Видео](./rogue.mp4)  
+**Ссылки**  [Скриншот](./rogue.png) [Видео](https://github.com/user-attachments/assets/cb012f68-6082-45fb-acaf-bfbfaf3d2f25)  
 **Технологии** TypeScript, Canvas API, Redux, RTK, React-Router, SCSS, Axios, OAuth, Web API: Web Workers, Performance API, Fullscreen API, Notifications API, localStorage, 
 ExpressJS, SSR (custom), Nginx, PostgreSQL, Sequelize, NodeJS, Lerna, Vite, Lefthook, Docker(Compose), Jest & RTL, ESlint, Prettier, Yandex Cloud  
 
@@ -34,4 +34,8 @@ ExpressJS, SSR (custom), Nginx, PostgreSQL, Sequelize, NodeJS, Lerna, Vite, Left
 - usePop hook
 ### LisaAlert
 - ts
+
+
+
+
 
