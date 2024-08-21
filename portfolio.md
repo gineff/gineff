@@ -18,12 +18,15 @@
 **Технологии** TypeScript, Canvas API, Redux, RTK, React-Router, SCSS, Axios, OAuth, Web API: Web Workers, Performance API, Fullscreen API, Notifications API, localStorage, 
 ExpressJS, SSR (custom), Nginx, PostgreSQL, Sequelize, NodeJS, Lerna, Vite, Lefthook, Docker(Compose), Jest & RTL, ESlint, Prettier, Yandex Cloud  
 
-## 🔴 mongodb app
-- js
-- patrsing
-- aw3
-#### popular books (web + react native)
-- ts
+## 🔴 [Mongodb app - Realm](https://github.com/gineff/flib.realm)
+**Описание** Приложение для парсинга онлайн-библиотеки Flibusta и загрузки книг в S3  
+**Технологии** js, mongodb atlas, aw3 sdk  
+
+## 🔴 [Popular books  (React-Native, Expo)](https://github.com/gineff/flib-rn-app)
+**Описание** Приложение для отображения популярных и новых книг на Flibusta  
+**Ссылки**  [Скриншот 1](https://github.com/user-attachments/assets/fb7233ac-8051-4e07-8547-585f522ed1fa) [Скриншот 2]([./rogue.png](https://github.com/user-attachments/assets/5418f0a6-4b40-49a3-ae69-d532ff915156)) [apk](https://disk.yandex.ru/d/sLxYlDGQcsL4XQ)  
+**Технологии** js, expo  
+
 #### russia it companies
 -js
 - rest api
