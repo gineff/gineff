@@ -61,3 +61,18 @@ ExpressJS, SSR (custom), Nginx, PostgreSQL, Sequelize, NodeJS, Lerna, Vite, Left
 **Описание** "биллиард" на canvas, без использования сторонних библиотек отрисовки и физики.    
 **Ссылки** [Gif](https://github.com/gineff/pool-task/raw/main/public/result.gif)  
 **Технологии** React, TypeScript, Canvas
+
+## 🔴 [Фотогаллерея](https://github.com/gineff/photo-album) 
+**Описание** Приложение для хранения, просмотра фотографий.    
+**Ссылки** [Скриншот](https://github.com/user-attachments/assets/76f353a4-4b58-4cc3-b9a5-81bb6b21c5e4)  
+**Технологии** React, React Router, MobX, Material-UI, Docker, FSD 
+
+## 🔴 [Ya-disk](https://github.com/gineff/ya-disk) 
+**Описание** Приложение для работы с Yandex диском.    
+**Ссылки** [Скриншот](https://github.com/user-attachments/assets/4fad4fa6-6aa5-4128-bab8-7f68f9818385)  
+**Технологии** React, React Router, RTK Query, Material-UI, FSD 
+
+## 🔴 [TechDoc](https://github.com/gineff/CaseLab2024-team) 
+**Описание** Система электронного документооборота. Командный проект Гринатом.    
+**Ссылки** [Скриншот](https://github.com/user-attachments/assets/b90e7f5e-23bb-45ce-9213-ed3900782c9d)    
+**Технологии** React, React Router, Mobx, Material-UI, Docker 
